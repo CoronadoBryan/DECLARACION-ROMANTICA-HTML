@@ -1,6 +1,6 @@
 # Proyecto "¿Quieres ser mi novia?"
 
-![Banner]([https://ibb.co/jbGLh1c](https://i.ibb.co/9c2qnCF/Happy-Mothers-Day-Facebook-Cover.png)) <!-- Cambia la URL por la imagen real si tienes una -->
+![Banner](https://i.ibb.co/9c2qnCF/Happy-Mothers-Day-Facebook-Cover.png) <!-- Cambia la URL por la imagen real si tienes una -->
 
 ## Descripción
 
